@@ -30,7 +30,7 @@ The Vtrack Node library provides convenient access to the Vtrack API.
 
 Install the package with:
 
-``sh 
+```sh
 npm install vtrack
 # or 
 yarn add vtrack
